@@ -1,7 +1,7 @@
 package com.rental_apps.android.rental_apps.admin;
 
 /**
- * Created by Muhajir on 07/10/2017.
+ * Created by Aditya NA on 11/12/2018.
  */
 
 import android.app.Activity;
@@ -57,7 +57,7 @@ import retrofit2.Callback;
 import retrofit2.Response;
 
 /**
- * Created by Ujang Wahyu on 04/01/2018.
+ * Created by Aditya NA on 11/12/2018.
  */
 
 public class AdminEditProfile extends AppCompatActivity implements InitComponent, View.OnClickListener {

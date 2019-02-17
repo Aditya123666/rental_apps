@@ -31,7 +31,7 @@ import br.liveo.navigationliveo.NavigationLiveo;
 import es.dmoral.toasty.Toasty;
 
 /**
- * Created by Ujang Wahyu on 04/01/2018.
+ * Created by Aditya NA on 11/12/2018.
  */
 
 public class UserMain extends NavigationLiveo implements OnItemClickListener {

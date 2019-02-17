@@ -7,7 +7,7 @@ import com.rental_apps.android.rental_apps.model.model_mobil.DataCars;
 import java.util.List;
 
 /**
- * Created by Ujang Wahyu on 02/02/2018.
+ * Created by Aditya NA on 11/12/2018.
  */
 
 public class ResponseFasilitas {

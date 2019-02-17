@@ -49,7 +49,7 @@ import customfonts.MyTextView;
 import es.dmoral.toasty.Toasty;
 
 /**
- * Created by Ujang Wahyu on 04/01/2018.
+ * Created by Aditya NA on 11/12/2018.
  */
 
 public class ActivityDetailUserCars extends AppCompatActivity implements InitComponent, View.OnClickListener{

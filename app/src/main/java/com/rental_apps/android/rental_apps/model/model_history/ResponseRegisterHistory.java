@@ -5,7 +5,7 @@ import com.google.gson.annotations.SerializedName;
 import com.rental_apps.android.rental_apps.model.model_history.DataHistory;
 
 /**
- * Created by USER on 28/01/2018.
+ * Created by Aditya NA on 11/12/2018.
  */
 
 public class ResponseRegisterHistory {

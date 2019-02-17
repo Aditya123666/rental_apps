@@ -30,7 +30,7 @@ import retrofit2.http.Part;
 import retrofit2.http.Path;
 
 /**
- * Created by Ujang Wahyu on 04/01/2018.
+ * Created by Aditya NA on 11/12/2018.
  */
 
 public interface request{

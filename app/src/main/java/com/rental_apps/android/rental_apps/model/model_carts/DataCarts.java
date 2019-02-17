@@ -4,7 +4,7 @@ import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
 /**
- * Created by Ujang Wahyu on 04/01/2018.
+ * Created by Aditya NA on 11/12/2018.
  */
 
 public class DataCarts {

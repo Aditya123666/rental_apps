@@ -10,7 +10,7 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 /**
- * Created by Ujang Wahyu on 04/01/2018.
+ * Created by Aditya NA on 11/12/2018.
  */
 
 public class client {
@@ -19,9 +19,9 @@ public class client {
     private  static  final  String BASE_URL_IMG="http://10.0.2.2/rental-api/upload/";
     //http://192.168.43.221/rental-api/";
 
-//    private  static  final  String BASE_URL="http://192.168.43.161/rental-api/";
-//    private  static  final  String BASE_URL_IMAGE="192.168.43.161/rental-api/upload/avatars/";
-//    private  static  final  String BASE_URL_IMG="http://192.168.43.161/rental-api/upload/";
+//    private  static  final  String BASE_URL="http://192.168.1.8/rental-api/";
+//    private  static  final  String BASE_URL_IMAGE="192.168.1.8/rental-api/upload/avatars/";
+//    private  static  final  String BASE_URL_IMG="http://192.168.1.8/rental-api/upload/";
 
     public static request getApi() {
         //Builder Retrofit

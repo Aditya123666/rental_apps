@@ -38,7 +38,7 @@ import retrofit2.Callback;
 import retrofit2.Response;
 
 /**
- * Created by Ujang Wahyu on 04/01/2018.
+ * Created by Aditya NA on 11/12/2018.
  */
 
 public class ActivityListTransaksi extends AppCompatActivity implements InitComponent, View.OnClickListener {

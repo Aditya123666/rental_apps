@@ -7,7 +7,7 @@ import android.content.res.Resources;
 import android.widget.Toast;
 
 /**
- * Created by Ujang Wahyu on 04/01/2018.
+ * Created by Aditya NA on 11/12/2018.
  */
 public class move extends Intent {
 
